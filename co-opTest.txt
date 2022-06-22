@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello!!
 
 lololololololololololololololol
+=======
+Hello!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+>>>>>>> 35363b374d8cd908bcca10851f8b63ace7ca1f95
